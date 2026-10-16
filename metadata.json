@@ -1,0 +1,6 @@
+{
+  "name": "Quick Transfer",
+  "description": "Fast and secure local peer-to-peer file transfer over Wi-Fi Direct and local network without internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
